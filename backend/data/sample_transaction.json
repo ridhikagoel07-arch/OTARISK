@@ -1,0 +1,14 @@
+{
+  "transaction_id": "TX-100001",
+  "customer_id": "CUST-50005",
+  "amount": 19509.02,
+  "currency": "USD",
+  "merchant": "Best Buy",
+  "merchant_category": "Electronics",
+  "location": {"city": "London", "country": "UK", "flag": "GB"},
+  "device": "Windows 11 · Chrome 122",
+  "device_id": "dev-9f3a",
+  "channel": "card_not_present",
+  "timestamp": "2026-02-27T09:05:11Z",
+  "user_prompt": "Please investigate this transaction for fraud risk."
+}

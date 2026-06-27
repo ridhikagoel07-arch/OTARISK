@@ -1,0 +1,122 @@
+[
+  {
+    "customer_id": "CUST-50001",
+    "name": "Aarav Patel",
+    "home_city": "Mumbai",
+    "home_country": "India",
+    "baseline_avg_amount": 142.0,
+    "baseline_max_amount": 1800.0,
+    "known_devices": ["iPhone 15 Pro · iOS 17.4", "MacBook Pro · Safari 17.2"],
+    "known_merchants": ["Amazon", "Netflix", "Uber Eats", "Spotify"],
+    "account_age_days": 1480,
+    "risk_tier": "low"
+  },
+  {
+    "customer_id": "CUST-50002",
+    "name": "Sofia Cohen",
+    "home_city": "New York",
+    "home_country": "USA",
+    "baseline_avg_amount": 312.0,
+    "baseline_max_amount": 4800.0,
+    "known_devices": ["MacBook Pro · Safari 17.2"],
+    "known_merchants": ["Whole Foods", "Apple Store", "Delta Air Lines"],
+    "account_age_days": 2210,
+    "risk_tier": "low"
+  },
+  {
+    "customer_id": "CUST-50003",
+    "name": "Liam Garcia",
+    "home_city": "London",
+    "home_country": "UK",
+    "baseline_avg_amount": 98.0,
+    "baseline_max_amount": 1200.0,
+    "known_devices": ["Pixel 8 · Android 14"],
+    "known_merchants": ["Bet365", "Steam Games", "Spotify"],
+    "account_age_days": 540,
+    "risk_tier": "medium"
+  },
+  {
+    "customer_id": "CUST-50004",
+    "name": "Yuki Tanaka",
+    "home_city": "Tokyo",
+    "home_country": "Japan",
+    "baseline_avg_amount": 76.0,
+    "baseline_max_amount": 900.0,
+    "known_devices": ["iPhone 15 Pro · iOS 17.4"],
+    "known_merchants": ["Amazon", "Apple Store"],
+    "account_age_days": 1890,
+    "risk_tier": "low"
+  },
+  {
+    "customer_id": "CUST-50005",
+    "name": "Maya Khan",
+    "home_city": "Dubai",
+    "home_country": "UAE",
+    "baseline_avg_amount": 540.0,
+    "baseline_max_amount": 9000.0,
+    "known_devices": ["Galaxy S24 · Android 14", "iPad Air · iOS 17.3"],
+    "known_merchants": ["Rolex Boutique", "Bloomingdale's", "Delta Air Lines"],
+    "account_age_days": 980,
+    "risk_tier": "medium"
+  },
+  {
+    "customer_id": "CUST-50006",
+    "name": "Ethan Kim",
+    "home_city": "Singapore",
+    "home_country": "Singapore",
+    "baseline_avg_amount": 410.0,
+    "baseline_max_amount": 6500.0,
+    "known_devices": ["MacBook Pro · Safari 17.2", "iPhone 15 Pro · iOS 17.4"],
+    "known_merchants": ["Apple Store", "Costco", "Shell Gas"],
+    "account_age_days": 1620,
+    "risk_tier": "low"
+  },
+  {
+    "customer_id": "CUST-50007",
+    "name": "Olivia Garcia",
+    "home_city": "Paris",
+    "home_country": "France",
+    "baseline_avg_amount": 188.0,
+    "baseline_max_amount": 2200.0,
+    "known_devices": ["iPhone 15 Pro · iOS 17.4"],
+    "known_merchants": ["Zara", "Whole Foods", "Netflix"],
+    "account_age_days": 760,
+    "risk_tier": "low"
+  },
+  {
+    "customer_id": "CUST-50008",
+    "name": "Diego Brown",
+    "home_city": "Sao Paulo",
+    "home_country": "Brazil",
+    "baseline_avg_amount": 64.0,
+    "baseline_max_amount": 700.0,
+    "known_devices": ["Pixel 8 · Android 14"],
+    "known_merchants": ["Uber Eats", "Spotify"],
+    "account_age_days": 410,
+    "risk_tier": "high"
+  },
+  {
+    "customer_id": "CUST-50009",
+    "name": "Isabella Rossi",
+    "home_city": "Berlin",
+    "home_country": "Germany",
+    "baseline_avg_amount": 250.0,
+    "baseline_max_amount": 3500.0,
+    "known_devices": ["Windows 11 · Chrome 122", "iPhone 15 Pro · iOS 17.4"],
+    "known_merchants": ["Amazon", "Zara", "Apple Store"],
+    "account_age_days": 1240,
+    "risk_tier": "low"
+  },
+  {
+    "customer_id": "CUST-50010",
+    "name": "Hassan Singh",
+    "home_city": "Toronto",
+    "home_country": "Canada",
+    "baseline_avg_amount": 175.0,
+    "baseline_max_amount": 2400.0,
+    "known_devices": ["Galaxy S24 · Android 14"],
+    "known_merchants": ["Costco", "Shell Gas", "Netflix"],
+    "account_age_days": 880,
+    "risk_tier": "low"
+  }
+]
